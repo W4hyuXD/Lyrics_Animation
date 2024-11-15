@@ -1,2 +1,2 @@
 # Lyrics_Animation
-Sebuah Script Untuk Membuat Tampilan Lirik Lagu Dengan Animasi Teks Berjalan
+Kalian Bisa Custom Lagu Beserta Lirik Sesuka Kalian Dan Tinggal Kalian Mainkkan Delaynya Agar OutPut Berjalan Sesuai Tempo 
