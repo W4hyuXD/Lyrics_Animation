@@ -1,6 +1,7 @@
 #! usr/bin/python3
 # Copyright © WahyuXD
 
+# <!-- Import Module --->
 import time, os, sys
 from time import sleep
 from rich import print
@@ -14,7 +15,7 @@ def lirik(lyrics, textl, dbaris):
         print()
         time.sleep(dbaris[i])
 
-# Lirik
+# <!-- Lirik --->
 lyrics = [
     "I need to","tell you",
     "something",
@@ -23,7 +24,7 @@ lyrics = [
     "I swear","I only make you cry"
 ]
 
-# delay
+# <!-- Delay --->
 textl = [0.1, 0.2, 0.1, 0.2, 0.1, 0.2, 0.2] # Delay Animasi Text
 dbaris = [1.5, 1.2, 1, 1.3, 1, 1, 2] # Delay Buat Line/Baris Baru
 
