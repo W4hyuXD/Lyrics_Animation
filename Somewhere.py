@@ -1,6 +1,6 @@
 #! usr/bin/python3
 # <!-- Copyright by WahyuXD -->
-# Somewhere only we know+ Kaene
+# Somewhere only we know - Kaene
 
 import sys
 import time, os
