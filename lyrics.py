@@ -21,4 +21,8 @@ def print_lyrics():
         time.sleep(delays[i])
         print("")
 
-os.popen("play-audio Song/apieceofyou.mp3");time.sleep(13);print_lyrics()
+if __name__=="__main__":
+    try:
+        os.popen("play-audio Song/apieceofyou.mp3")
+    except:
+        time.sleep(13);print_lyrics()
