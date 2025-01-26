@@ -21,4 +21,4 @@ def print_lyrics():
         time.sleep(delays[i])
         print("")
 
-os.popen("play-audio apieceofyou.mp3");time.sleep(13);print_lyrics()
+os.popen("play-audio Song/apieceofyou.mp3");time.sleep(13);print_lyrics()
